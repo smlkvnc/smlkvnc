@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @smlkvnc
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaSctipt
-- 💞️ I’m looking to collaborate on developers
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me samilkivanc26@gmail.com
 
 <!---
