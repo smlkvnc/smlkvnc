@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smlkvnc
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently working as a System Engineer
 - 📫 How to reach me samilkivanc26@gmail.com
 
 <!---
